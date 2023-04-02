@@ -3,7 +3,7 @@
 export const data = [
 
     {
-        question:'Walk (Caminar) ',
+        question:'W A L K  (Caminar) ',
         choise:[
             'regular',
             'irregular'
@@ -14,7 +14,7 @@ export const data = [
     },
 
     {
-        question:'DO (Hacer)',
+        question:'D O  (Hacer)',
         choise:[
             'regular',
             'irregular'
