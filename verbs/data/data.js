@@ -328,7 +328,7 @@ export const data = [
     },
 
     {
-        question:'F I N S H (Finalizar)',
+        question:'F I N I S H (Finalizar)',
         choise:[
             'regular',
             'irregular'
